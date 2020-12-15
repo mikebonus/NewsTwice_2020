@@ -1,0 +1,10 @@
+#Fri Oct 09 21:43:35 EDT 2020
+path.2=classes2.dex
+path.1=classes.dex
+path.0=classes.dex
+renamed.2=classes3.dex
+renamed.1=classes2.dex
+renamed.0=classes.dex
+base.2=C\:\\Users\\Mikebonus\\Desktop\\NewsTwice\\Android_Collection_2020\\NewsTwice-master\\app\\build\\intermediates\\dex\\debug\\mergeExtDexDebug\\classes2.dex
+base.1=C\:\\Users\\Mikebonus\\Desktop\\NewsTwice\\Android_Collection_2020\\NewsTwice-master\\app\\build\\intermediates\\dex\\debug\\mergeProjectDexDebug\\classes.dex
+base.0=C\:\\Users\\Mikebonus\\Desktop\\NewsTwice\\Android_Collection_2020\\NewsTwice-master\\app\\build\\intermediates\\dex\\debug\\mergeExtDexDebug\\classes.dex

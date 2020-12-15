@@ -1,0 +1,1 @@
+[{"navFile":"src\\main\\res\\navigation\\news_nav_graph.xml","javaFiles":["com.manhee.newsapp_2020_mk.fragments.BreakingNewsFragmentDirections","com.manhee.newsapp_2020_mk.fragments.SavedNewsFragmentDirections","com.manhee.newsapp_2020_mk.fragments.SearchNewsFragmentDirections","com.manhee.newsapp_2020_mk.fragments.ArticleFragmentArgs"]}]

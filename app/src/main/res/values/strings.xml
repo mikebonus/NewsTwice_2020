@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">NEWS TWICE</string>
+    <string name="app_lan">abcdefghijklmnopqrstuvwxyz ABCDEFGHIJKLMNOPQRSTUVWXYZ</string>
+
+    <!-- AdMob APP-ID -->
+    <string name="admob_banner_ad">ca-app-pub-4604809290919189~6265325217</string>
+
+    <!-- Admob  -->
+    <string name = "adUnit_tester"> ca-app-pub-3940256099942544/6300978111 </string>
+    <string name="adUnit_id">ca-app-pub-4604809290919189/8558609777</string>
+
+
+</resources>
