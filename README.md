@@ -1,4 +1,4 @@
-# NewsTwice (Updated on July 31st, 2020)
+# NewsTwice (Updated on Dec 15th, 2020)
 <br />
 <br />
 
