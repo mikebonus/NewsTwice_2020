@@ -2,7 +2,7 @@
 <br />
 <br />
 
-Originally Developed By: <b>'AndroidDevs'</b> <br />
+Originally Developed By: <b>'AndroidDevs(Philipp Lackner)'</b> <br />
 Github: https://github.com/androiddevs18/MVVMNewsApp/tree/Handling-network-exceptions <br />
 Instagram: https://www.instagram.com/philipplackner_official/<b>(49.5K Followers)</b> <br />
 Youtube: https://www.youtube.com/channel/UCKNTZMRHPLXfqlbdOI7mCkg <br /> <br /> 
