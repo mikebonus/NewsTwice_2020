@@ -12,7 +12,7 @@ Newly Upgraded By: <b>'Mikebonus'</b> <br />
 Github: https://github.com/mikebonus <br />
 LinkedIn: https://www.linkedin.com/in/mikecha777/ <br /> <br />
 
-This application was originally designed/created by <b>'AndroidDevs(@android_devs)'</b> <br />
+This application was originally designed/created by <b>'Philipp Lacker(@philipplackner_official)'</b> <br />
 and I (<b>Mikebonus</b>) got his permission to scale up his original <b>'MVVMNewsApp'</b> application <br />
 https://www.youtube.com/watch?v=asuOWE5KuFM&list=PLQkwcJG4YTCRF8XiCRESq1IFFW8COlxYJ (VIDEO SERIES) <br /> 
 to the next level, as I've added additional features to make this incredibly well-coordinated 
